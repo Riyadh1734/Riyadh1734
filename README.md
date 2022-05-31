@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/riyadha05140544" target="blank"><img src="https://img.shields.io/twitter/follow/riyadha05140544?logo=twitter&style=for-the-badge" alt="riyadha05140544" /></a> </p>
 
-- 🔭 I’m currently working on **Home**
-
 - 🌱 I’m currently learning **Developments**
 
 - 🤝 I’m looking for help with **Backend development**
