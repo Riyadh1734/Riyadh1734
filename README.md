@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 👨‍💻 All of my projects are available at [http://sajuahmed.epizy.com](http://sajuahmed.epizy.com) & [https://profiles.wordpress.org/saju4wordpress/#content-plugins] (WP.org)
+- 👨‍💻 All of my projects are available at [http://sajuahmed.epizy.com](http://sajuahmed.com) & [https://profiles.wordpress.org/saju4wordpress/#content-plugins] (WP.org)
 
 - 📝 I regularly write articles on [http://sajuahmed.epizy.com](http://sajuahmed.epizy.com)
 
